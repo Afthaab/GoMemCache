@@ -1,4 +1,4 @@
-# GoCache - A Lightweight Distributed Caching System in Golang  
+# GoMemCache - A Lightweight Distributed Caching System in Golang  
 
 GoCache is a high-performance, in-memory caching system built in Go. It supports TTL-based expiration, automatic cleanup, and is designed to scale across multiple nodes using consistent hashing (coming soon 🚀).  
 
